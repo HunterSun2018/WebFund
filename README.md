@@ -148,7 +148,7 @@ dotnet add package HtmlAgilityPack --version 1.11.21
 dotnet add package System.Text.Encoding.CodePages
 ```
 
-## 11. Initial Encoder for 'gb2132' 
+## 11. Register Provider for 'gb2132' on initialization
 
 ```c#
 using System.Text;
